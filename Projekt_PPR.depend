@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1485377299 source:c:\users\jagodziñski wojciech\desktop\projekt_ppr\main.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<fstream>
+	"header.hpp"
+
+1485377961 source:c:\users\jagodziñski wojciech\desktop\projekt_ppr\functions.cpp
+	"header.hpp"
+	<iostream>
+	<string.h>
+	<stack>
+	<stdlib.h>
+
+1485221319 c:\users\jagodziñski wojciech\desktop\projekt_ppr\functions.cpp
+	"header.hpp"
+
+1485377779 c:\users\jagodziñski wojciech\desktop\projekt_ppr\header.hpp
+
+1485381922 source:\\files\students\s426145\podstawy programowania\projekt_ppr_popr\projekt_ppr\functions.cpp
+	"header.hpp"
+	<iostream>
+	<string.h>
+	<stack>
+	<stdlib.h>
+
+1485381922 \\files\students\s426145\podstawy programowania\projekt_ppr_popr\projekt_ppr\header.hpp
+
+1485381922 source:\\files\students\s426145\podstawy programowania\projekt_ppr_popr\projekt_ppr\main.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	"header.hpp"
+
